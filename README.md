@@ -1,1 +1,1 @@
-https://radiant-sands-65252.herokuapp.com/
+https://radiant-sands-65252.herokuapp.com/index.html
